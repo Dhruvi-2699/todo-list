@@ -1,6 +1,6 @@
 export const Navbar = () => {
   return (
-    <nav className="flex justify-between bg-blue-600 text-white py-2">
+    <nav className="flex justify-between bg-yellow-500 text-white py-2">
       <div className="logo mx-5">
         <span className="font-bold text-xl cursor-pointer">MyTodoList</span>
       </div>
